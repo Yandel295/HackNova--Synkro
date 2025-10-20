@@ -1,0 +1,4 @@
+flask
+git add requirements.txt
+git commit -m "Agrega requirements.txt para despliegue en Render"
+git push origin main
